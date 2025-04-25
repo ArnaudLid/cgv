@@ -10,7 +10,7 @@ Le contrat établit les relations commerciales entre le PRESTATAIRE et le CLIENT
 
 Les prestations proposées par le PRESTATAIRE sont les suivantes : création, réalisation, refonte de sites internet, interventions sur le CMS WordPress, interventions sur le CMS Prestashop, maintenance de sites internet, développement d’applications web.  
 
-Le CLIENT est informé sur le devis des Conditions Générales de Vente et peut les consulter à tout moment sur le site internet du PRESTATAIRE à l’adresse https://arnosr.github.io/cgv/. Toute commande passée par le CLIENT emporte acceptation et sans réserve des présentes Conditions Générales de Vente.
+Le CLIENT est informé sur le devis des Conditions Générales de Vente et peut les consulter à tout moment sur le site internet du PRESTATAIRE à l’adresse https://arnaudlid.github.io/cgv/. Toute commande passée par le CLIENT emporte acceptation et sans réserve des présentes Conditions Générales de Vente.
 
 ## ARTICLE 3 - COMMANDES
 
